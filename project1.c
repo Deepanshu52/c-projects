@@ -28,7 +28,7 @@ do{
     nguesses++;
 }while ( guess != number);
 printf(" thanks for playing the guessing number game \n");
-return 0;
+
     
     return 0;
 }
